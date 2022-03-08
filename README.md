@@ -2,7 +2,7 @@
 
 ce projet utilise le framework SPRING BOOT 2.6 , MYSQL coté serveur et angular 12 coté front.
 
-La version le java utilisé est la version 17 et intelijIDEA 2021.1.2 .
+La version de java utilisé est la version 17 et intelijIDEA 2021.1.2 .
 
 
 Pour configurer la base de donné , ouvrez le dossier "BACKEND" dans votre IDE et ouvrez le le fichier "application.Propreties" qui se trouve 
